@@ -1,0 +1,17 @@
+30de7ba0ab5c70b394071c432426f9d9 *DESCRIPTION
+69f522d9cc9be3f5baa84649afc7752d *NAMESPACE
+8f791e1554f4cfb489bf0576a2df3b7a *R/DeRezende.Ferreira.5F.R
+6ba691eabf56bb02c7db280445364169 *data/ZC_Brazil.txt
+81469ef43aac560d3d28c555f3e151bd *data/ZC_China.txt
+0445ef8c08b358231e7445cf0f86bcf3 *data/ZC_India.txt
+3edf465830f10e6e3993723596d1e891 *data/ZC_Russia.txt
+c650e7090eb8cfda6aba896635527dfb *data/ZC_SouthAfrica.txt
+b4dfa2fb04bffd3435c72c3537604af0 *man/DRF.5F.rates.Rd
+93eb22bf58e7615a29804cce0fa68b8c *man/DRF.5F.tFix.Rd
+df32a940fd3cb1bc73d9943c58d111bc *man/DRF.5F.tVar.Rd
+857df0c32c819b69cbd8104d852d5adc *man/DeRezende.Ferreira-pkg.Rd
+8d2c0b67b4fd65cc9e0876effbb8f653 *man/ZC_Brazil.Rd
+a33469d9d14ea1a598d6f9b8ce9fc6a2 *man/ZC_China.Rd
+e5e4d1acac29746b6a46758e60a427a8 *man/ZC_India.Rd
+74976db4b7c0e865ca44671fd45f2931 *man/ZC_Russia.Rd
+21df147feac50666bc46610476602a53 *man/ZC_SouthAfrica.Rd
